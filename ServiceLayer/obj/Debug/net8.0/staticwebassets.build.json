@@ -1,0 +1,24 @@
+{
+  "Version": 1,
+  "Hash": "hgoz2tt8vQmdTpc1OmJH7f2oVO4F/mT2YYGTVOKjNb4=",
+  "Source": "ServiceLayer",
+  "BasePath": "_content/ServiceLayer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\Pradeep\\source\\repos\\CourseWebApi\\RepositoryLayer\\RepositoryLayer.csproj",
+      "Version": 2,
+      "Source": "RepositoryLayer",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
